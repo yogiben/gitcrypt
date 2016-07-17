@@ -1,0 +1,2 @@
+secret.txt filter=git-crypt diff=git-crypt
+secret/secret filter=git-crypt diff=git-crypt
